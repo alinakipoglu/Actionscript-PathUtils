@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="com.alinakipoglu.utils.pathutils.QuadraticSplinePathElement"/>
+    <classEntry path="com.alinakipoglu.utils.pathutils.LinePathElement"/>
+    <classEntry path="com.alinakipoglu.utils.pathutils.PathSequence"/>
+    <classEntry path="com.alinakipoglu.utils.pathutils.CubicSplinePathElement"/>
+    <classEntry path="com.alinakipoglu.utils.pathutils.interfaces.IPathElement"/>
+    <classEntry path="com.alinakipoglu.utils.pathutils.interfaces.IPathSequence"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
