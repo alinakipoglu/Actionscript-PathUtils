@@ -1,0 +1,7 @@
+.svn/
+.settings/
+.DS_Store
+.actionScriptProperties
+.flexLibProperties
+.project
+.prefs
