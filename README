@@ -1,6 +1,5 @@
-
-Actionscript Curve library to work with various curve types. 
+A Path utility classes for working with quadratic, bezier and line sequences
 
 - Supports Quadratic, Bezier and Line path segments.
-- Supports composite paths.
+- Supports composite / nested path sequences.
 - Can export a path (.as class file) from Flash to be used with API
